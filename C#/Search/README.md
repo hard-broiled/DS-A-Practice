@@ -1,0 +1,1 @@
+init readme for general search dir
